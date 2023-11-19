@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: ec71b4b97334f5b489b43fbebe6b9b86
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 966.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd947d98cc16bc74f91bf1a85fa45315
+      internalID: -1343285789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 966.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11af5bc1f9d3d664dbbf352b4efc0b09
+      internalID: -208386465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 966.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb330581ad42015499bf7b9211a6f23c
+      internalID: 1287502157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 966.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa73231db3b39714980e7f6e38c5766f
+      internalID: -1808815393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 966.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4cd2cab24aa3149b0057d443075334
+      internalID: 1076708019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 809.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65856acfb833ff647a346fe8d7bb42a7
+      internalID: -2062082301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 809.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b114ffa3387c04419422a63140075a5
+      internalID: -664252635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 809.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2741a2e1403ea4fa68defc88f6ae79
+      internalID: -1385708629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 809.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04cd0faa1349dd4d9dca44f5f576792
+      internalID: -511169715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 809.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb31c60acf614b5429093b3f671a7384
+      internalID: 1847809351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 652.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94de6b6667df86a4a8f5a10fc398b1cc
+      internalID: 1020275509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 652.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae6f23efdfb48a46b28a677301aeca0
+      internalID: 1743847678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 652.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e95e55c2d69db74eb3b11181883c737
+      internalID: 124916564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 652.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7acf870573fe444080e262018ccf09b
+      internalID: -827352928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_14
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 652.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d96f07219a5441499cabe08bfa76492
+      internalID: -110800215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 495.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9eaef97fca8c54f9739542619a11a8
+      internalID: 1119102854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 495.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10be140c903f8f4493f98e3eb77bc09
+      internalID: 1100131248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 495.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de4992462a537448a81078da9b16268
+      internalID: -726942672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 495.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0e42d83d92e674fbfffe0557e3e2ac
+      internalID: -1748150861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_19
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 495.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14363de6ad127c04d82bebe2af3a1896
+      internalID: 1247675924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 338
+        width: 109
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ee8e6d64bfeb1419ba13997f1a6841
+      internalID: 1169868512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 338
+        width: 109
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd3a9b9996740f4ebcbefbe47b8aa37
+      internalID: 1595174769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 338.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54553fcadcf5e6240aa6ccb0a99c5058
+      internalID: 1827099222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_23
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 338.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afea79b6adb551642a57244f688559e7
+      internalID: -1056851868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_24
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 338.2857
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eb5a445ef30d04e96bc8a39384e68a
+      internalID: -313978692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 170
+        width: 109
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa16639edc03024db7ea2a3426578e2
+      internalID: -347993905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_26
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 170
+        width: 109
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9476990db110269429b7ebacb06bd69a
+      internalID: -891836161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_27
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 170
+        width: 109
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a042cb05c50902f4eb01a7fd73a9044d
+      internalID: 1437149615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 170
+        width: 109
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd538e679440c384fb2c4934223b5a55
+      internalID: -2107354655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_29
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 181.28572
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436f8fda64fc78b46a6b0b0cc9c0f2e0
+      internalID: -2121104720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 109
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524a6fb1864a0314b838dcf37174e782
+      internalID: 762296177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_31
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 5
+        width: 109
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07b8a20b910cdc4c817232d87592ce0
+      internalID: 778187923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 5
+        width: 109
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8384dec27fd28c74989a32e85c5acce2
+      internalID: -1256446041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_33
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 5
+        width: 109
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38704234acf9a06478d44c0be0839fe2
+      internalID: 1534747320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_34
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 24.28572
+        width: 108.8
+        height: 137.71428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732b88c0a157f8f47bdf3410bbfcdd3d
+      internalID: -655690599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Pocket Mortys - 084 Tank Top Morty_35
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 338
+        width: 109
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5909e33b2710e9544aefcf26da9ce71e
+      internalID: -783777046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Pocket Mortys - 084 Tank Top Morty_0: -1343285789
+      Mobile - Pocket Mortys - 084 Tank Top Morty_1: -208386465
+      Mobile - Pocket Mortys - 084 Tank Top Morty_10: 1020275509
+      Mobile - Pocket Mortys - 084 Tank Top Morty_11: 1743847678
+      Mobile - Pocket Mortys - 084 Tank Top Morty_12: 124916564
+      Mobile - Pocket Mortys - 084 Tank Top Morty_13: -827352928
+      Mobile - Pocket Mortys - 084 Tank Top Morty_14: -110800215
+      Mobile - Pocket Mortys - 084 Tank Top Morty_15: 1119102854
+      Mobile - Pocket Mortys - 084 Tank Top Morty_16: 1100131248
+      Mobile - Pocket Mortys - 084 Tank Top Morty_17: -726942672
+      Mobile - Pocket Mortys - 084 Tank Top Morty_18: -1748150861
+      Mobile - Pocket Mortys - 084 Tank Top Morty_19: 1247675924
+      Mobile - Pocket Mortys - 084 Tank Top Morty_2: 1287502157
+      Mobile - Pocket Mortys - 084 Tank Top Morty_20: 1169868512
+      Mobile - Pocket Mortys - 084 Tank Top Morty_21: 1595174769
+      Mobile - Pocket Mortys - 084 Tank Top Morty_22: 1827099222
+      Mobile - Pocket Mortys - 084 Tank Top Morty_23: -1056851868
+      Mobile - Pocket Mortys - 084 Tank Top Morty_24: -313978692
+      Mobile - Pocket Mortys - 084 Tank Top Morty_25: -347993905
+      Mobile - Pocket Mortys - 084 Tank Top Morty_26: -891836161
+      Mobile - Pocket Mortys - 084 Tank Top Morty_27: 1437149615
+      Mobile - Pocket Mortys - 084 Tank Top Morty_28: -2107354655
+      Mobile - Pocket Mortys - 084 Tank Top Morty_29: -2121104720
+      Mobile - Pocket Mortys - 084 Tank Top Morty_3: -1808815393
+      Mobile - Pocket Mortys - 084 Tank Top Morty_30: 762296177
+      Mobile - Pocket Mortys - 084 Tank Top Morty_31: 778187923
+      Mobile - Pocket Mortys - 084 Tank Top Morty_32: -1256446041
+      Mobile - Pocket Mortys - 084 Tank Top Morty_33: 1534747320
+      Mobile - Pocket Mortys - 084 Tank Top Morty_34: -655690599
+      Mobile - Pocket Mortys - 084 Tank Top Morty_35: -783777046
+      Mobile - Pocket Mortys - 084 Tank Top Morty_4: 1076708019
+      Mobile - Pocket Mortys - 084 Tank Top Morty_5: -2062082301
+      Mobile - Pocket Mortys - 084 Tank Top Morty_6: -664252635
+      Mobile - Pocket Mortys - 084 Tank Top Morty_7: -1385708629
+      Mobile - Pocket Mortys - 084 Tank Top Morty_8: -511169715
+      Mobile - Pocket Mortys - 084 Tank Top Morty_9: 1847809351
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

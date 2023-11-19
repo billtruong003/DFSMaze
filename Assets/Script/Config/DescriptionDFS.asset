@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688743b621888dd49ab30e8ce592d124, type: 3}
+  m_Name: DescriptionDFS
+  m_EditorClassIdentifier: 
+  DfsDes:
+  - Img: {fileID: 0}
+    Description: "<b>1. M\xF4 t\u1EA3 t\u1ED5ng quan v\u1EC1 DFS:</b>\r\nDFS (Depth-First
+      Search) l\xE0 m\u1ED9t thu\u1EADt to\xE1n t\xECm ki\u1EBFm \u0111\u01B0\u1EDDng
+      \u0111i trong \u0111\u1ED3 th\u1ECB ho\u1EB7c c\xE2y. Thu\u1EADt to\xE1n n\xE0y
+      b\u1EAFt \u0111\u1EA7u t\u1EEB m\u1ED9t \u0111\u1EC9nh g\u1ED1c v\xE0 kh\xE1m
+      ph\xE1 m\u1ED9t nh\xE1nh c\u1EE7a \u0111\u1EC9nh n\xE0y c\xE0ng xa c\xE0ng
+      s\xE2u v\xE0o \u0111\u1ED3 th\u1ECB tr\u01B0\u1EDBc khi quay l\u1EA1i. DFS
+      th\u01B0\u1EDDng \u0111\u01B0\u1EE3c th\u1EF1c hi\u1EC7n b\u1EB1ng c\xE1ch
+      s\u1EED d\u1EE5ng \u0111\u1EC7 quy ho\u1EB7c m\u1ED9t ng\u0103n x\u1EBFp (stack)."
+    Checked: 0
+  - Img: {fileID: 0}
+    Description: "<b>2. Kh\xE1m ph\xE1 \u0111\u1EC9nh b\u1EB1ng DFS:</b>\r\nKhi DFS
+      kh\xE1m ph\xE1 m\u1ED9t \u0111\u1EC9nh, n\xF3 \u0111\xE1nh d\u1EA5u \u0111\u1EC9nh
+      \u0111\xF3 l\xE0 \u0111\xE3 th\u0103m v\xE0 sau \u0111\xF3 duy\u1EC7t qua c\xE1c
+      \u0111\u1EC9nh k\u1EC1 ch\u01B0a \u0111\u01B0\u1EE3c th\u0103m. N\xF3 ti\u1EBFp
+      t\u1EE5c \u0111\u1EC7 quy v\xE0o m\u1ED9t \u0111\u1EC9nh k\u1EC1 v\xE0 l\u1EB7p
+      l\u1EA1i qu\xE1 tr\xECnh n\xE0y cho \u0111\u1EBFn khi kh\xF4ng c\xF2n \u0111\u1EC9nh
+      n\xE0o \u0111\u1EC3 kh\xE1m ph\xE1 ho\u1EB7c to\xE0n b\u1ED9 \u0111\u1ED3 th\u1ECB
+      \u0111\xE3 \u0111\u01B0\u1EE3c duy\u1EC7t qua."
+    Checked: 0
+  - Img: {fileID: 0}
+    Description: "<b>3. \u1EE8ng d\u1EE5ng c\u1EE7a DFS:</b>\r\nDFS \u0111\u01B0\u1EE3c
+      s\u1EED d\u1EE5ng r\u1ED9ng r\xE3i trong vi\u1EC7c t\xECm ki\u1EBFm \u0111\u01B0\u1EDDng
+      \u0111i, x\xE1c \u0111\u1ECBnh c\xE1c th\xE0nh ph\u1EA7n li\xEAn th\xF4ng,
+      ki\u1EC3m tra t\xEDnh li\xEAn th\xF4ng c\u1EE7a \u0111\u1ED3 th\u1ECB, t\u1EA1o
+      danh s\xE1ch topological c\u1EE7a \u0111\u1ED3 th\u1ECB c\xF3 h\u01B0\u1EDBng,
+      v\xE0 trong nhi\u1EC1u b\xE0i to\xE1n kh\xE1c nhau li\xEAn quan \u0111\u1EBFn
+      \u0111\u1ED3 th\u1ECB."
+    Checked: 0
+  - Img: {fileID: 0}
+    Description: "<b>4. \u01AFu \u0111i\u1EC3m c\u1EE7a DFS:</b>\r\nDFS th\u01B0\u1EDDng
+      hi\u1EC7u qu\u1EA3 v\xE0 \u0111\u01A1n gi\u1EA3n trong vi\u1EC7c t\xECm ki\u1EBFm
+      \u0111\u01B0\u1EDDng \u0111i. N\xF3 ti\u1EBFt ki\u1EC7m b\u1ED9 nh\u1EDB h\u01A1n
+      so v\u1EDBi BFS v\xEC s\u1EED d\u1EE5ng ng\u0103n x\u1EBFp thay v\xEC h\xE0ng
+      \u0111\u1EE3i."
+    Checked: 1
+  - Img: {fileID: 0}
+    Description: "<b>5. Kh\u1EAFc ph\u1EE5c s\u1EF1 k\u1EBFt qu\u1EA3 kh\xF4ng x\xE1c
+      \u0111\u1ECBnh c\u1EE7a DFS:</b>\r\nM\u1ED9t v\u1EA5n \u0111\u1EC1 c\u1EE7a
+      DFS l\xE0 n\xF3 c\xF3 th\u1EC3 d\u1EABn \u0111\u1EBFn s\u1EF1 k\u1EBFt qu\u1EA3
+      kh\xF4ng x\xE1c \u0111\u1ECBnh n\u1EBFu c\xF3 nhi\u1EC1u \u0111\u01B0\u1EDDng
+      \u0111i t\u1EEB m\u1ED9t \u0111\u1EC9nh \u0111\u1EBFn m\u1ED9t \u0111\u1EC9nh
+      kh\xE1c. \u0110\u1EC3 kh\u1EAFc ph\u1EE5c \u0111i\u1EC1u n\xE0y, c\xF3 th\u1EC3
+      s\u1EED d\u1EE5ng c\xE1c c\xE1ch th\u1EE9c nh\u01B0 c\u1EAFt c\u1EA1nh sau
+      khi m\u1ED9t \u0111\u1EC9nh \u0111\xE3 \u0111\u01B0\u1EE3c th\u0103m."
+    Checked: 1
+  - Img: {fileID: 0}
+    Description: "<b>6. \u1EE8ng d\u1EE5ng v\xE0o game s\u1EED d\u1EE5ng DFS \u0111\u1EC3
+      t\xECm \u0111\u01B0\u1EDDng \u0111i t\u1EEB m\u1ED9t \u0111\u1EC9nh \u0111\u1EBFn
+      m\u1ED9t \u0111\u1EC9nh kh\xE1c:</b>\r\nDFS c\xF3 th\u1EC3 \u0111\u01B0\u1EE3c
+      s\u1EED d\u1EE5ng \u0111\u1EC3 t\xECm \u0111\u01B0\u1EDDng \u0111i t\u1EEB
+      m\u1ED9t \u0111\u1EC9nh xu\u1EA5t ph\xE1t \u0111\u1EBFn m\u1ED9t \u0111\u1EC9nh
+      \u0111\xEDch b\u1EB1ng c\xE1ch duy\u1EC7t qua to\xE0n b\u1ED9 \u0111\u1ED3
+      th\u1ECB. Khi \u0111\u01B0\u1EDDng \u0111i \u0111\u01B0\u1EE3c t\xECm th\u1EA5y,
+      thu\u1EADt to\xE1n DFS d\u1EEBng l\u1EA1i."
+    Checked: 1
